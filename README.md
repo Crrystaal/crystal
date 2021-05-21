@@ -13,8 +13,8 @@ You can follow me on these platforms to get more information about me and follow
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1fjep2c4mzvksxizhhdm1xsfn)
 
-![Pixelable github stats](https://github-readme-stats.vercel.app/api?username=lofiwins&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Pixelable](https://github-readme-stats.vercel.app/api/top-langs/?username=lofiwins&theme=dark&hide_border=true&layout=compact)
+![Pixelable github stats](https://github-readme-stats.vercel.app/api?Crrystaal=lofiwins&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Pixelable](https://github-readme-stats.vercel.app/api/top-langs/?Crrystaal=lofiwins&theme=dark&hide_border=true&layout=compact)
 
 
 
